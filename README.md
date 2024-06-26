@@ -1,11 +1,11 @@
 # Tennessee Deer Harvest Analysis
 ## Table of Contents
-	* [Motivation](#Motivation)
-	* [Technologies](#Technologies)
-	* [Problems & Hurdles](#problems--hurdles)
-		* [Getting the Data](#getting-the-Data)
-		* [Hurdles](#Hurdles)
-	*[Link to Dashboard](#link-to-dashboard)
+* [Motivation](#motivation)
+* [Technologies](#technologies)
+* [Problems & Hurdles](#problems--hurdles)
+  * [Getting the Data](#getting-the-data)
+  * [Hurdles](#hurdles)
+* [Link to Dashboard](#link-to-dashboard)
 
 ## Motivation
 #### My motivation for this project comes from my love of deer hunting, animal conservation, and the great outdoors. I was not introduced to hunting until my mid twenties, and until that time I knew little about wildlife and conservation efforts. One-hundred percent of hunting and fishing license fees go to support wildlife conservation in Tennessee. This includes things such as habitat restoration, population monitoring and research to maintain healthy wildlife populations. 
@@ -28,5 +28,5 @@
 
 #### The last problem I encountered was insufficient data from a data source that I thought could provide impactful insight. In the last 10 years, Chronic Wasting Disease (CWD) has been detected in Tennessee deer herds. I hypothesize that CWD may have an affect on the deer herd and harvest numbers; however, the data available on CWD prevalance is insufficient to draw conclusions from or determine meaningful relationships. Information was on this subject has only been substantially collected for 2023. I believe as more data is collected that this could be an important metric to measure against harvest numbers.
 
-##Link to Dashboard
+## Link to Dashboard
 #### https://public.tableau.com/shared/5RYMFTT79?:display_count=n&:origin=viz_share_link
